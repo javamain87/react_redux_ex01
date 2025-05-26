@@ -1,0 +1,18 @@
+{
+  "boards": [
+    { "id": 1, "title": "Hello World", "content": "test-content-01" },
+    { "id": 2, "title": "Redux is great", "content": "test-content-02" },
+    { "id": 3, "title": "Hello World", "content": "test-content-03" },
+    { "id": 4, "title": "Redux is great", "content": "test-content-04" },
+    { "id": 5, "title": "Hello World", "content": "test-content-05" },
+    { "id": 6, "title": "Redux is great", "content": "test-content-06" },
+    { "id": 7, "title": "Hello World", "content": "test-content-07" },
+    { "id": 8, "title": "Redux is great", "content": "test-content-08" },
+    { "id": 9, "title": "Hello World", "content": "test-content-09" },
+    { "id": 10, "title": "Redux is great", "content": "test-content-10" }
+  ],
+  "users": [
+    { "id": 1, "name": "Kim" },
+    { "id": 2, "name": "Lee" }
+  ]
+}
